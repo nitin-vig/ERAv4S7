@@ -20,6 +20,7 @@ The goal was to acheive 85% test accuracy with less than 200k parameters.
   - Train Accuracy: **62.1%**  
   - Test Accuracy: **85.1%**
   - High Receptive Field.
+  - A Dilated convoultion of dilation=2 is equivalent of a 5x5 or 3x3,3x3 convolution
 
 - **Analysis**:  
   - Train accuracy still has scope for improvement.  
